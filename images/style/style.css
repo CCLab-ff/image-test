@@ -1,0 +1,19 @@
+body {
+    background-image: url('../images/astronaut1920.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  h1 {
+    color: white;
+    font-family: Courier;
+    text-align: center;
+    font-weight: lighter;
+  }
+  
+  img {
+    position: fixed;
+    left: 50%;
+    bottom: 5px;
+  }
